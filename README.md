@@ -405,3 +405,5 @@ Recommended artifact priority:
 5. **Microsoft Project workplan** — project planning and organization
 
 The collapsible sections keep the README concise while still demonstrating the full project lifecycle, from requirements analysis and process modeling through database implementation and documentation.
+
+Review the notes here.
